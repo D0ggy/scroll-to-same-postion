@@ -4,8 +4,8 @@
 
 演示，视频位于项目 public 目录下，`Screenrecorder.mp4`：
 
-<video id="video" controls="" preload="none" poster="">
-<source id="mp4" src="public/Screenrecorder.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/23610166/224639572-bfea7273-def2-497f-970b-01f00b922e37.mp4
+
 
 
